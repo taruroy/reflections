@@ -1,0 +1,2 @@
+.git file gets created but no commits happen automatically. User needs to do the commit himself.
+Intermediatary to working area and repository. Helps us choose which files we want to commit
