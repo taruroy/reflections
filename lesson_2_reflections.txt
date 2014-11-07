@@ -3,4 +3,5 @@ Intermediatary to working area and repository. Helps us choose which files we wa
 use git diff --staged to figure out differences between current change and the one in repository. The comparison could help determine logical change.
 branches lets you experiment
 Diagrams are cool!!
-Merge branches
+Merge branches.
+Clash detection
